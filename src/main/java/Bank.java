@@ -3,7 +3,7 @@
  * <p>
  * In this lab we will model a bank. We have two classes: Bank and BankAccount. You should finish
  * both classes, by fixing checkstyle errors, defining constructors, getters and setters, and
- * accessing private variables.
+ * accessing pri vate variables.
  *
  * @see <a href="https://cs125.cs.illinois.edu/lab/5/">Lab 5 Description</a>
  */
